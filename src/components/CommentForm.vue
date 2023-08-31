@@ -58,7 +58,6 @@ export default {
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
     form {
         display: flex;
@@ -68,7 +67,7 @@ export default {
         border: 1px solid lightblue;
         padding: 20px;
     }
-    
+
     label {
         margin-top: 30px;
     }
